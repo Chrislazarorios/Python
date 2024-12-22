@@ -1,0 +1,5 @@
+Extensiones necesarias para ejecutar el programa:
+
+- sqlite3
+- colorama
+- os
